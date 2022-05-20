@@ -5,4 +5,4 @@
 <a href="https://github.com/AlirezaGhabashyan">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaGhabashyan&&theme=dark" />
 </a>
-![opm](https://user-images.githubusercontent.com/97885961/169610682-4ed4ea12-dcff-435e-b1bd-4dde3da8a109.jpg)
+(https://user-images.githubusercontent.com/97885961/169610682-4ed4ea12-dcff-435e-b1bd-4dde3da8a109.jpg)
