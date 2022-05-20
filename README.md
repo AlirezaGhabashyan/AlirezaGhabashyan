@@ -5,6 +5,4 @@
 <a href="https://github.com/AlirezaGhabashyan">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaGhabashyan&&theme=dark" />
 </a>
-<a href=&quothttps://github.com/AlirezaGhabashyan>
-  <img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=AlirezaGhabashyan_icons=true&count_private=true&include_all_commits=true&quot />
-</a>
+![opm](https://user-images.githubusercontent.com/97885961/169610682-4ed4ea12-dcff-435e-b1bd-4dde3da8a109.jpg)
